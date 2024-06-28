@@ -1,21 +1,20 @@
 @font-face {
-    font-family:font ;
-    src: url("font/JacquesFrancoisShadow-Regular.ttf");
+    font-family:font-1;
+    src: url("font-1/JacquesFrancoisShadow-Regular.ttf");
 }
 h3 {
-    font-family:font;
+    font-family:font-1;
+    src: url("font-1/JacquesFrancoisShadow-Regular.ttf");
 }
 @font-face {
-    font-family:font-1;
+    font-family: font-1;
     src: url("font-1/OriginalSurfer-Regular.ttf");
 }
 .p1 {
-    font-family: font-1;
-}
-@font-face {
-    font-family: font-2;
-    src: url("font-2/Play-Regular.ttf");
+    font-family:font-1;
+    src: url("font-1/OriginalSurfer-Regular.ttf");
 }
 .p2 {
-    font-family: font-2;
+    font-family: font-1;
+    src: url("font-1/Play-Regular.ttf");
 }
